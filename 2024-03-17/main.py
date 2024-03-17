@@ -2,6 +2,8 @@ x = 15
 
 y = 10
 
-result = x+y
+z = 5
+
+result = x + y - z
 
 print(result)
